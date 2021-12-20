@@ -8,8 +8,7 @@ export default function Home() {
 				<title>Animations hub title</title>
 			</Head>
 
-			<main className={styles.main}>this is the main file</main>
-			<footer className={styles.footer}>here with my footer</footer>
+			<h1>This is the main file</h1>
 		</div>
 	);
 }

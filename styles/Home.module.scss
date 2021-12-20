@@ -1,9 +1,8 @@
 $primaryColor: dodgerblue;
 
 .container {
-	padding: 0 2rem;
-
-	* {
-		background-color: $primaryColor;
+	h1 {
+		font-size: 30px;
+		color: $primaryColor;
 	}
 }
